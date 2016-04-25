@@ -34,7 +34,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ckawohl
+  username               : "ckawohl"
 facebook:
   username               :
   app_id                 :
@@ -62,7 +62,7 @@ google_ad_slot           :
 author:
   name             : "Conny Kawohl"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Crafting Interfaces with Code, Style & Love."
   location         : "Berlin, Germany"
   email            :
   uri              :
@@ -72,7 +72,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : supernoir
+  github           : "supernoir"
   google_plus      :
   keybase          :
   instagram        :
