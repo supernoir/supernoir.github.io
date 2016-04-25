@@ -7,14 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "supernoir"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Conny Kawohl"
-description              : "Crafting Interfaces with Code, Style and Love"
-url                      : "https://supernoir.github.io"
-baseurl                  : "/"
-gh_repo                  : "supernoir"
-teaser                   : "500x300.png"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+gh_repo                  :
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
@@ -34,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "ckawohl"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -60,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Conny Kawohl"
+  name             : "Your Name"
   avatar           : "bio-photo.jpg"
-  bio              : "Crafting Interfaces with Code, Style and Love"
-  location         : "Berlin, Germany"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
   email            :
   uri              :
   bitbucket        :
@@ -72,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "supernoir"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
