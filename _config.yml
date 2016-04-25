@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "supernoir"
 title_separator          : "-"
 name                     : "Conny Kawohl"
-description              : "Handcrafting Interfaces with Code, Style and Love"
+description              : "Crafting Interfaces with Code, Style and Love"
 url                      : "https://supernoir.github.io"
 baseurl                  : "/"
 gh_repo                  : "supernoir"
@@ -62,7 +62,7 @@ google_ad_slot           :
 author:
   name             : "Conny Kawohl"
   avatar           : "bio-photo.jpg"
-  bio              : "Crafting Interfaces with Code, Style & Love."
+  bio              : "Crafting Interfaces with Code, Style and Love"
   location         : "Berlin, Germany"
   email            :
   uri              :
