@@ -11,11 +11,10 @@ title                    : "supernoir"
 title_separator          : "-"
 name                     : "Conny Kawohl"
 description              : "Handcrafting Interfaces with Code, Style and Love"
-url                      : https://supernoir.github.io
-baseurl                  : /
-gh_repo                  : supernoir
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+url                      : "https://supernoir.github.io"
+baseurl                  : "/"
+gh_repo                  : "supernoir"
+teaser                   : "500x300.png"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
