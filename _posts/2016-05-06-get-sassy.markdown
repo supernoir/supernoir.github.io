@@ -1,0 +1,4 @@
+---
+layout: post
+---
+[![Get Sass-y](/images/fulls/getsassy.png)](https://www.youtube.com/watch?v=eWgHgAujrW0&feature=youtu.be "'Get Sass-y' is a lightning talk I gave at the Open Tech Summit Berlin 2016.") "Get Sass-y" is a lightning talk I gave at the Open Tech Summit Berlin 2016. In this presentation I give a short introduction into my favorite css preprocessor, called Sass.
